@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harshit Kumar Vishwakarma</h1>
 <h3 align="center">A passionate software developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F6625629-It-s-Game-Time&psig=AOvVaw2Tzhmf-WR3MT36KKpPqdd6&ust=1690553614636000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCICixpCJr4ADFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width="400" src="![image](https://github.com/ryuga123677/ryuga123677/assets/132598272/0b62436b-8edd-4dde-b75a-baec885eacfb)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryuga123677&label=Profile%20views&color=0e75b6&style=flat" alt="ryuga123677" /> </p>
 
